@@ -1,5 +1,4 @@
 ## I am interested in algorithmic resarch, but I make random stuffs in my free time. 
-Check out junsooki.com! 
 <!--
 **junsooki/junsooki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
